@@ -1,0 +1,4 @@
+*.css linguist-language=JSP
+*.less linguist-language=JSP
+*.js linguist-language=JSP
+*.html linguist-language=JSP
